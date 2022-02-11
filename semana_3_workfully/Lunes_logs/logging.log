@@ -1,0 +1,27 @@
+
+07/02/2022 16:45:57 - root - INFO - Launching main function...
+07/02/2022 16:45:57 - root - INFO - Config succesfully loaded from yml file. Creating GetHolidayInfo object.
+07/02/2022 16:45:57 - root - INFO - GetHolidayInfo object succesfully created.
+07/02/2022 16:45:58 - root - INFO - Image URLs succesfully obtained.
+07/02/2022 16:45:59 - root - INFO - News data succesfully obtained.
+07/02/2022 16:45:59 - root - INFO - Weather data succesfully obtained.
+07/02/2022 16:45:59 - root - INFO - Directories succesfully created. Storing data...
+07/02/2022 16:46:01 - root - INFO - JSON file succesfully saved.
+07/02/2022 16:46:01 - root - INFO - Images succesfully resized.
+07/02/2022 17:23:13 - root - INFO - Launching main function...
+07/02/2022 17:23:13 - root - INFO - Config succesfully loaded from yml file. Creating GetHolidayInfo object.
+07/02/2022 17:23:13 - root - INFO - GetHolidayInfo object succesfully created.
+07/02/2022 17:23:15 - root - INFO - Image URLs succesfully obtained.
+07/02/2022 17:23:16 - root - INFO - News data succesfully obtained.
+07/02/2022 17:23:17 - root - INFO - Weather data succesfully obtained.
+07/02/2022 17:23:17 - root - INFO - Directories succesfully created. Storing data...
+07/02/2022 17:23:18 - root - INFO - JSON file succesfully saved.
+07/02/2022 17:23:18 - root - INFO - Images succesfully resized.
+07/02/2022 17:43:29 - root - INFO - Informacion
+07/02/2022 17:45:47 - root - INFO - Informacion
+07/02/2022 17:46:11 - root - INFO - Informacion
+07/02/2022 17:47:16 - root - INFO - Informacion
+07/02/2022 17:47:34 - root - INFO - Can't sum
+07/02/2022 17:47:34 - root - INFO - Informacion
+07/02/2022 17:47:59 - root - INFO - Can't sum
+

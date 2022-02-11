@@ -1,0 +1,18 @@
+# App info
+algorithm_id: holiday_info
+version: v0.1
+
+# General params
+destination_city: malaga
+destination_country_code: es
+
+# Query params
+image_params:
+  - number_of_images: 20
+    image_width: 150
+    image_height: 90
+news_params:
+  - number_of_news: 5
+weather_params:
+  - temperature: True
+    sky: True

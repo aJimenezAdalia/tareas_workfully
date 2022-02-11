@@ -1,0 +1,6 @@
+# Information
+algorithm_name: LeagueReader
+algorithm_id: 0.1.0
+
+# File
+file_name: ../data/laligaTSV.tsv
